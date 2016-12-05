@@ -1,0 +1,6 @@
+aot
+dist
+node_modules
+src/**/*.map
+src/**/*.js
+*.iml
